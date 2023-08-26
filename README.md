@@ -1,8 +1,6 @@
-# 🎄 Advent of Code 🎄
+# 🎄 Advent of Code 2022 🎄
 
-Implemented in Rust
-
-## [2022](https://adventofcode.com/2022)
+Implemented in Rust.
 
 - Day [01](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2022/day_01.rs): Calorie Counting
 - Day [02](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2022/day_02.rs): Rock Paper Scissors
@@ -22,17 +20,3 @@ Implemented in Rust
 - Day [18](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2022/day_18.rs): Boiling Boulders
 - Day [20](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2022/day_20.rs): Grove Positioning System
 - Day [21](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2022/day_21.rs): Monkey Math
-
-## [2016](https://adventofcode.com/2016)
-
-- Day [01](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2016/day_01.rs): No Time for a Taxicab
-- Day [02](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2016/day_02.rs): Bathroom Security
-
-## [2015](https://adventofcode.com/2015)
-
-- Day [01](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2015/day_01.rs): Not Quite Lisp
-- Day [02](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2015/day_02.rs): I Was Told There Would Be No Math
-- Day [03](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2015/day_03.rs): Perfectly Spherical Houses in a Vacuum
-- Day [04](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2015/day_04.rs): The Ideal Stocking Stuffer
-- Day [05](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2015/day_05.rs): Doesn't He Have Intern-Elves For This?
-- Day [06](https://github.com/cyrillvetter/aoc-rust/blob/main/src/year_2015/day_06.rs): Probably a Fire Hazard
