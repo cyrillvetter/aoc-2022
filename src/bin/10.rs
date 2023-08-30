@@ -73,14 +73,9 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_part1() {
+    fn test() {
         let input = advent_of_code::read_file("inputs", 10);
         assert_eq!(part_one(&input), Solution::I32(14320));
-    }
-
-    #[test]
-    fn test_part2() {
-        let input = advent_of_code::read_file("inputs", 10);
         let expected_part2 = "\n\
             ###...##..###..###..#..#..##..###....##.\n\
             #..#.#..#.#..#.#..#.#.#..#..#.#..#....#.\n\

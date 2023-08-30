@@ -92,14 +92,9 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_part1() {
+    fn test() {
         let input = advent_of_code::read_file("inputs", 5);
         assert_eq!(part_one(&input), Solution::Str(String::from("ZSQVCCJLL")));
-    }
-
-    #[test]
-    fn test_part2() {
-        let input = advent_of_code::read_file("inputs", 5);
         assert_eq!(part_two(&input), Solution::Str(String::from("QZFJRWHGS")));
     }
 }

@@ -69,14 +69,9 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_part1() {
+    fn test() {
         let input = advent_of_code::read_file("inputs", 20);
         assert_eq!(part_one(&input), Solution::I64(11073));
-    }
-
-    #[test]
-    fn test_part2() {
-        let input = advent_of_code::read_file("inputs", 20);
         assert_eq!(part_two(&input), Solution::I64(11102539613040));
     }
 }

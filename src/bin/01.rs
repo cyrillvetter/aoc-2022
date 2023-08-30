@@ -32,14 +32,9 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_part1() {
+    fn test() {
         let input = advent_of_code::read_file("inputs", 1);
         assert_eq!(part_one(&input), Solution::I32(70613));
-    }
-
-    #[test]
-    fn test_part2() {
-        let input = advent_of_code::read_file("inputs", 1);
         assert_eq!(part_two(&input), Solution::I32(205805));
     }
 }

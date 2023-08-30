@@ -138,14 +138,9 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_part1() {
+    fn test() {
         let input = advent_of_code::read_file("inputs", 13);
         assert_eq!(part_one(&input), Solution::USize(5682));
-    }
-
-    #[test]
-    fn test_part2() {
-        let input = advent_of_code::read_file("inputs", 13);
         assert_eq!(part_two(&input), Solution::USize(20304));
     }
 }
